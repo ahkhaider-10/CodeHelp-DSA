@@ -1,6 +1,14 @@
 #include<iostream>
 using namespace std;
-
+/* 
+Output: 6
+     *
+    **
+   ***
+  ****
+ *****
+******
+*/
 int main() {
 
     int n;
@@ -28,3 +36,4 @@ int main() {
     }
     return 0;
 }
+
