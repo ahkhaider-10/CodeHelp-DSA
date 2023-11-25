@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
-
+/*
+5
+54321
+54321
+54321
+54321
+54321
+*/
 int main() {
     int n;
     cin>>n;
