@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
-
+/*
+5
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
+*/
 int main() {
 
     int n;
