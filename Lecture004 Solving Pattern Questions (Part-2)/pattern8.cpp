@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
-
+/*
+5
+E
+DE
+CDE
+BCDE
+ABCDE
+*/
 int main() {
 
     int n;
