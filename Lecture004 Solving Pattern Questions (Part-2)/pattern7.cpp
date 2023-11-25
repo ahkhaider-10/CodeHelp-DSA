@@ -1,6 +1,14 @@
 #include<iostream>
 using namespace std;
-
+/*
+Output:
+5
+A
+BC
+CDE
+DEFG
+EFGHI
+*/
 int main() {
 
     int n;
