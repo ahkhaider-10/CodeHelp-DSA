@@ -1,6 +1,16 @@
 #include<iostream>
 using namespace std;
-
+/*
+8
+1 
+2 1 
+3 2 1 
+4 3 2 1 
+5 4 3 2 1 
+6 5 4 3 2 1 
+7 6 5 4 3 2 1 
+8 7 6 5 4 3 2 1 
+*/
 int main() {
     int n;
     cin>>n;
