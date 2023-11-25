@@ -1,6 +1,15 @@
 #include<iostream>
 using namespace std;
-
+/*
+7
+      1
+     121
+    12321
+   1234321
+  123454321
+ 12345654321
+1234567654321
+*/
 int main() {
 
     int n;
