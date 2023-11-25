@@ -1,6 +1,14 @@
 #include<iostream>
 using namespace std;
-
+/*
+6
+1 
+2 3 
+3 4 5 
+4 5 6 7 
+5 6 7 8 9 
+6 7 8 9 10 11
+*/
 int main() {
     int n;
     cin>>n;
@@ -12,7 +20,7 @@ int main() {
         int col = 1;
         int value = row;
         while(col <= row) {
-            cout<<value;
+            cout << value << " ";
             value = value + 1;
             col = col + 1;
         }
